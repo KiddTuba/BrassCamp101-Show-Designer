@@ -2,7 +2,7 @@
   "name": "band-show-designer",
   "version": "0.1.0",
   "private": true,
-  "homepage": ".",
+  "homepage": "https://<your-username>.github.io/<your-repository-name>",
   "dependencies": {
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
