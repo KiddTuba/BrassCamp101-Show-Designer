@@ -2,7 +2,7 @@
   "name": "band-show-designer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://<your-username>.github.io/<your-repository-name>",
+  "homepage": "https://KiddTuba.github.io/BrassCamp101-Show-Designer",
   "dependencies": {
     "lucide-react": "^0.263.1",
     "react": "^18.2.0",
