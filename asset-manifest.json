@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "./static/js/main.a170adee.js",
-    "index.html": "./index.html",
-    "main.a170adee.js.map": "./static/js/main.a170adee.js.map"
+    "main.js": "/BrassCamp101-Show-Designer/static/js/main.a170adee.js",
+    "index.html": "/BrassCamp101-Show-Designer/index.html",
+    "main.a170adee.js.map": "/BrassCamp101-Show-Designer/static/js/main.a170adee.js.map"
   },
   "entrypoints": [
     "static/js/main.a170adee.js"
